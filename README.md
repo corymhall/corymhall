@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/corymhall/corymhall">
+  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api?username=corymhall&show_icons=true&theme=gotham&show=reviews" />
+</a>
+<a href="https://github.com/corymhall/corymhall">
+  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api/top-langs?username=corymhall&layout=compact&theme=gotham" />
+</a>
