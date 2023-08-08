@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api?username=corymhall&show_icons=true&theme=gotham&show=reviews" />
 </a>
 <a href="https://github.com/corymhall/corymhall">
-  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api/top-langs?username=corymhall&layout=compact&theme=gotham&&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api/top-langs?username=corymhall&layout=compact&theme=gotham&&size_weight=0.5&count_weight=0.5&hide=javascript" />
 </a>
