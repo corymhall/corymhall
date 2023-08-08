@@ -1,11 +1,25 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Cory.</h2>
 
+- 🔭 I’m currently working at AWS on the [AWS CDK](https://github.com/aws/aws-cdk) team
+- 🌱 I’m currently learning about building LSPs, CLIs, and gRPC
+- ⚡ Fun fact: I love [Neovim](https://github.com/neovim/neovim) ❤️
+
+-------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Building, bundling, and deploying applications with the AWS CDK](https://aws.amazon.com/blogs/devops/building-apps-with-aws-cdk/)
+- [Bootstrapping multiple AWS accounts for AWS CDK using CloudFormation StackSets](https://aws.amazon.com/blogs/mt/bootstrapping-multiple-aws-accounts-for-aws-cdk-using-cloudformation-stacksets/)
+<!-- BLOG-POST-LIST:END -->
+
+-------
 <!--
 **corymhall/corymhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working at AWS on the [AWS CDK](https://github.com/aws/aws-cdk) team
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,5 +32,5 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api?username=corymhall&show_icons=true&theme=gotham&show=reviews" />
 </a>
 <a href="https://github.com/corymhall/corymhall">
-  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api/top-langs?username=corymhall&layout=compact&theme=gotham" />
+  <img height=200 align="center" src="https://github-readme-stats-dun-one-61.vercel.app/api/top-langs?username=corymhall&layout=compact&theme=gotham&&size_weight=0.5&count_weight=0.5" />
 </a>
