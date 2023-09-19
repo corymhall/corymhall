@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm Cory.</h2>
 
-- 🔭 I’m currently working at AWS on the [AWS CDK](https://github.com/aws/aws-cdk) team
+- 🔭 I’m currently working at [RVO Health](https://rvohealth.com/)
+- 💥 Former [AWS CDK](https://github.com/aws/aws-cdk) team member
 - 🌱 I’m currently learning about building LSPs, CLIs, and gRPC
 - ⚡ Fun fact: I love [Neovim](https://github.com/neovim/neovim) ❤️
 
