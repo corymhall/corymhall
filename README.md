@@ -4,15 +4,22 @@
 - 💥 Former [AWS CDK](https://github.com/aws/aws-cdk) team member
 - 🌱 I’m currently learning about building LSPs, CLIs, and gRPC
 - ⚡ Fun fact: I love [Neovim](https://github.com/neovim/neovim) ❤️
+- 📘 I have a [blog](https://corymhall.com/devlog)
 
 -------
 
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [CDK Diff GitHub Action](https://corymhall.com/devlog/cdk-diff-action/)
+- [Go Construct Patterns](https://corymhall.com/devlog/go-construct-patterns/)
 - [Building, bundling, and deploying applications with the AWS CDK](https://aws.amazon.com/blogs/devops/building-apps-with-aws-cdk/)
 - [Bootstrapping multiple AWS accounts for AWS CDK using CloudFormation StackSets](https://aws.amazon.com/blogs/mt/bootstrapping-multiple-aws-accounts-for-aws-cdk-using-cloudformation-stacksets/)
 <!-- BLOG-POST-LIST:END -->
+
+-------
+
+<img align="center" src="https://cdk-stats.vercel.app/api?username=corymhall"/>
 
 -------
 <!--
