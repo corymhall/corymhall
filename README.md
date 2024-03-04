@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm Cory.</h2>
 
-- 🔭 I’m currently working at [RVO Health](https://rvohealth.com/)
+- 🔭 I’m currently working at [Pulumi](https://www.pulumi.com/)
 - 💥 Former [AWS CDK](https://github.com/aws/aws-cdk) team member
-- 🌱 I’m currently learning about building LSPs, CLIs, and gRPC
+- 🌱 I’m currently learning about Pulumi!
 - ⚡ Fun fact: I love [Neovim](https://github.com/neovim/neovim) ❤️
 - 📘 I have a [blog](https://corymhall.com/devlog)
 
