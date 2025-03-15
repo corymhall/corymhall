@@ -11,6 +11,7 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [CDK on Pulumi v1.0](https://www.pulumi.com/blog/aws-cdk-on-pulumi-1.0/)
 - [CDK Diff GitHub Action](https://corymhall.com/devlog/cdk-diff-action/)
 - [Go Construct Patterns](https://corymhall.com/devlog/go-construct-patterns/)
 - [Building, bundling, and deploying applications with the AWS CDK](https://aws.amazon.com/blogs/devops/building-apps-with-aws-cdk/)
